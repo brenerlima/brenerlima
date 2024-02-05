@@ -1,6 +1,6 @@
 ## Olá!👋
 
-Eu sou o Brener Fernandes, um estudante apaixonado por tecnologia e um futuro programador FullStack. Aqui minha criatividade e imaginação assumem formas em linhas de código, onde estou sempre me colocando em testes me aprimorarando como profissional. 
+Eu sou o Brener Fernandes, um estudante apaixonado por tecnologia e um futuro programador FullStack. Aqui minha criatividade e imaginação assumem formas em linhas de código, onde estou sempre me colocando em testes e me aprimorarando como profissional. 
 
  <div>
    <a href="https://github.com/brenerlima">
